@@ -1,0 +1,83 @@
+﻿/*
+ * Open Sans Hebrew Condensed (Hebrew) http://www.google.com/fonts/earlyaccess
+ */
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 300;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-LightItalic-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Light-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 400;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Italic-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Regular-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 700;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-BoldItalic-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-Bold-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: italic;
+  font-weight: 800;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBoldItalic-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Hebrew Condensed';
+  font-style: normal;
+  font-weight: 800;
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold-6.eot);
+  src: url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold-7.eot) format('embedded-opentype'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold-3.woff2) format('woff2'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold-3.woff) format('woff'),
+       url(../ea/opensanshebrewcondensed/v3/OpenSansHebrewCondensed-ExtraBold-3.ttf) format('truetype');
+}
